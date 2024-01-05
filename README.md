@@ -1,0 +1,1 @@
+i -> shift (switch IME) -> hello
